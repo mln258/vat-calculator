@@ -1,0 +1,2 @@
+image: mln258/vatcalc:<+pipeline.sequenceId>
+replicas: 1
